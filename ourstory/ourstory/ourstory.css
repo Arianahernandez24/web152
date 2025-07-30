@@ -44,7 +44,8 @@ aside {
   padding: 0 1em;
 }
 img {
-  width: 45%;
+  width: 100%;
+  max-width: 100%;
   height: auto;
 }
 nav ul {
